@@ -14,3 +14,10 @@ pip install unidecode
 ## Challenges:
 
 1. Spotify has substantially changed their code, so we'll have to use another source. https://acharts.co/ looks like a good candidate!
+
+
+## process:
+
+1. Extract top 100 songs for each week in 2020 in Canada.
+2. Populate lyrics for as many songs as possible (determine failure rate and why).
+3. Run sentiment analysis for all lyrics obtained.

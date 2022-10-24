@@ -12,8 +12,10 @@ pip install pandas
 pip install unidecode
 pip install flair
 pip install vaderSentiment
-
+pip install bokeh
+pip install streamlit
 jupyter lab
+streamlit run datavis.py
 ```
 
 ## Challenges:
